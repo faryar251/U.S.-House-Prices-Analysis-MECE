@@ -8,7 +8,7 @@
 The chart were created using [LucidChart](https://www.lucidchart.com/pages/).
 
 
-## A. Conceptual Model
+## A. Conceptual Model ([can be viewed here as well](https://github.com/faryar251/U.S.-House-Prices-Analysis-MECE/blob/main/MECE%20Framework/A.%20Conceptual%20Model.png))
 ![Conceptual Model](<MECE Framework/A. Conceptual Model.png>)
-## B. Segmentation Model at House Level
+## B. Segmentation Model at House Level [can be viewed here as well](https://github.com/faryar251/U.S.-House-Prices-Analysis-MECE/blob/main/MECE%20Framework/B.%20Segmentation%20Model%20of%20House%20Level%20Prices.png)
 ![Segmentation Model House Level](<MECE Framework/B. Segmentation Model of House Level Prices.png>)
