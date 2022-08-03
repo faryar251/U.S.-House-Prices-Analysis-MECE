@@ -13,3 +13,6 @@ The chart were created using [LucidChart](https://www.lucidchart.com/pages/).
 
 ## B. Segmentation Model at House Level [can be viewed here as well](https://github.com/faryar251/U.S.-House-Prices-Analysis-MECE/blob/main/MECE%20Framework/B.%20Segmentation%20Model%20of%20House%20Level%20Prices.png)
 ![Segmentation Model House Level](https://github.com/faryar251/U.S.-House-Prices-Analysis-MECE/blob/main/MECE%20Framework/B.%20Segmentation%20Model%20of%20House%20Level%20Prices.png?raw=true)
+
+## C. Segmentation Model at National Level [can be viewed here as well](https://github.com/faryar251/U.S.-House-Prices-Analysis-MECE/blob/main/MECE%20Framework/C.%20Segmentation%20Model%20at%20National%20Level.png)
+![Segmentation Model at National Level](https://github.com/faryar251/U.S.-House-Prices-Analysis-MECE/blob/main/MECE%20Framework/C.%20Segmentation%20Model%20at%20National%20Level.png?raw=true)
