@@ -1,12 +1,25 @@
-A. Macroeconomic Factors
-	1.
+- Macroeconomic Factors
 
-	2. monthly_house_supply: The months' supply is the ratio of new houses for sale to new houses sold. This statistic provides an indication of the size of the new for-sale inventory in relation to the number of new houses currently being sold. The months' supply indicates how long the current new for-sale inventory would last given the current sales rate if no additional new houses were built.
+	1.house_price_index: S&P/Case-Shiller U.S. National Home Price Index. It measures the changes in the sale prices of single-family homes across the U.S. The index tracks the purchase prices and resale prices of homes that have undergone a minimum of two arm's-length transactions. The basE period is Jan 2000.
+	2. population: Population of U.S. in thousands.
 
-	3. 
-	4.
-	5.
-	6. 
-	7.
-	8.
+	3. house_supply: The months' supply is the ratio of new houses for sale to new houses sold. This statistic provides an indication of the size of the new for-sale inventory in relation to the number of new houses currently being sold. The months' supply indicates how long the current new for-sale inventory would last given the current sales rate if no additional new houses were built.
+
+	4. gdp: Gross domestic product (GDP) is the most commonly used measure for the size of an economy. measures the monetary value of final goods and services—that is, those that are bought by the final user—produced in a country in a given period of time. It counts all the output generated within the borders of a country.
+
+	5. mortgage_rate:  30-Year Fixed Rate Mortgage Average in the United States. It is the rate of interest charged on a mortgage.
+
+	6. employment_rate: The employment rate, as defined by OECD, is the employment-to-population ratio – the number of people of working age in the population who are employed.
+
+	7. permit_new: New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units. This series reflects an increase in the universe of permit-issuing places from 19,000 to 20,000 places in U.S.
+
+	8. ppi_res: Producer Price Index by Commodity: Inputs to Industries: Net Inputs to Residential Construction, Goods. The Producer Price Index (PPI) for material inputs to construction gives us an indication whether costs for material inputs are going up or down.
+
+	9. m3: (in trillions) M3 (broad money) is a measure of the money supply that includes M2, large time deposits, institutional money market funds, and short-term repurchase agreements.
+
+	10. cci: Consumer Confidence Index. It is a survey that measures how optimistic or pessimistic consumers are regarding their expected financial situation. If the consumers are optimistic, spending will be more, whereas if they are not so confident, then their poor consumption pattern may lead to recession. In simple terms, increased consumer confidence indicates economic growth in which consumers are spending money, indicating higher consumption.
+
+	11. delinquency_rate: The delinquency rate is the amount of debt that is past due. The mortgage delinquency rate is the share of the total number of mortgaged home loans in the U.S. where payment is overdue by 30 days or more.
+
+	12. hcai: The Housing Finance Policy Center's credit availability index, or HCAI, measures the difficulty of getting a mortgage in the United States by precisely quantifying lenders' tolerance for risk. Uniquely and importantly, the HCAI separates borrower risk from product risk.
 
